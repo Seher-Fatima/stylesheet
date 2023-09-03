@@ -1,0 +1,122 @@
+h1.one{
+	text-first-line:purple;
+	font-size:80px;
+	text-align:center;
+	font-family:helvetica neue;
+	text-decoration:underline;
+	color:deeppink;
+	text-decoration-style:dotted;
+	text-decoration-color:black;
+
+}
+.nav{
+
+	margin-top:5px;
+}
+.nav a{
+	color:red;
+	font-size:30px;
+	font-family:helvetica;
+	display:inline;
+	margin:40px 50px;	
+	font-weight:bold;
+}
+.nav a:hover{
+	background:purple;
+	color:white;
+
+
+}
+img.one{
+	width:40px;
+	height:50px;
+	margin-left:20px;
+
+}
+img.two{
+	width:40px;
+	height:50px;
+	margin-left:50px;
+}
+img.three{
+	width:40px;
+	height:50px;
+	margin-left:50px;
+
+}
+
+h2{
+	font-size:50px;
+	color:purple;
+	text-decoration:underline;
+	text-decoration-color:brown;
+}
+p.one{
+	font-size:30px;
+	font-family:"cambria";
+	margin-left:30px;
+	margin-right:30px;
+	color:black;
+	background-color:Deeppink;	
+	border:10px solid;
+	padding:20px; 
+}
+h3{
+	font-size:50px;
+	color:blue;
+	text-decoration:underline;
+	text-decoration-color:black;
+}
+p.two{
+	font-size:40px;
+	background-color:darkorange;
+	font-family:"helvetica";
+	padding:10px;
+	border-style:dashed; 
+}
+h1.two{
+	font-size:40px;
+	color:deeppink;
+	text-decoration:underline black;
+}
+p.three{
+	font-size:40px;
+	font-family:gotham;
+	color:red;
+	background-color:yellow;
+	border:20px dotted;
+	padding:20px;
+}
+h2.two{
+	font-size:50px;
+	color:red;
+	font-family:sans-serif;
+	text-decoration:underline;
+	text-decoration-style:wavy;
+	text-decoration-color:purple;
+}
+p.four{
+	font-size:40px;
+	background-color:grey;
+	border:40px solid deeppink;
+	color:darkblack
+	text-align:right;
+
+}
+h1.three{
+	font-size:60px;
+	margin:50px;
+	color:green;
+	text-decoration:underline;
+	text-decoration-color:black;
+}
+img{
+	width:50px;
+	height:50px;
+	margin-left:300px;
+	margin-top:-100px;
+
+
+
+}
+
